@@ -7,6 +7,6 @@
 		<meta name="author" content="gerardo miranda" />
 	</head>
 	<body>
-		<h2> el pepe <h2/>
+		<h2> el pepe rico <h2/>
 	</body>
 </html>
